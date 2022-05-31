@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_files/uart/uart.sim/sim_1/impl/timing/xsim/top_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter74x163
+INFO: [VRFC 10-311] analyzing module counter74x163_0
+INFO: [VRFC 10-311] analyzing module counter74x163_1
+INFO: [VRFC 10-311] analyzing module shift_register
+INFO: [VRFC 10-311] analyzing module state_change
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module tri_state
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_files/uart/uart.srcs/sim_1/new/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
